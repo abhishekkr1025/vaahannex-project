@@ -570,8 +570,8 @@
 
 //   // Configure AWS SDK for S3
 //   const s3 = new AWS.S3({
-//     accessKeyId: "AKIAUEPK7D5M35MWSY33", // Replace with your IAM Access Key
-//     secretAccessKey: "xezk+lGgHWRT6SgXSWHxHT4C7447drVFSLk/NvM2", // Replace with your IAM Secret Key
+//     accessKeyId: "aws-key", // Replace with your IAM Access Key
+//     secretAccessKey: "secret-key", // Replace with your IAM Secret Key
 //     region: "us-east-1", // Replace with your S3 bucket's region (e.g., "us-east-1")
 //   });
 
