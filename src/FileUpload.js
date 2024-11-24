@@ -89,7 +89,7 @@
 //   const s3 = new AWS.S3({
 //     accessKeyId: "aws-key", // Replace with your IAM Access Key
 //     secretAccessKey: "secret-key", // Replace with your IAM Secret Key
-//     region: "us-east-1", // Replace with your S3 bucket's region (e.g., "us-east-1")
+//     region: "region", // Replace with your S3 bucket's region (e.g., "us-east-1")
 //   });
 
 //   // Handle file selection from drag-and-drop or file input
@@ -310,7 +310,7 @@
 //   const s3 = new AWS.S3({
 //     accessKeyId: "aws-key", // Replace with your IAM Access Key
 //     secretAccessKey: "secret-key", // Replace with your IAM Secret Key
-//     region: "us-east-1", // Replace with your S3 bucket's region (e.g., "us-east-1")
+//     region: "region", // Replace with your S3 bucket's region (e.g., "us-east-1")
 //   });
 
 
@@ -572,7 +572,7 @@
 //   const s3 = new AWS.S3({
 //     accessKeyId: "aws-key", // Replace with your IAM Access Key
 //     secretAccessKey: "secret-key", // Replace with your IAM Secret Key
-//     region: "us-east-1", // Replace with your S3 bucket's region (e.g., "us-east-1")
+//     region: "region", // Replace with your S3 bucket's region (e.g., "us-east-1")
 //   });
 
 //   // Handle file selection via drag-and-drop or file input
